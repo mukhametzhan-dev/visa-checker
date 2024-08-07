@@ -28,6 +28,8 @@ python telegram.py </li>
 <li>Adjust the SCHEDULE_URL and APPOINTMENTS_URL as needed based on your specific use case. </li>
 <li>Be cautious with credentials;
     do not expose .env files publicly. </li>
+
+    <li> The parsing code collects dates only for Almaty and Astana (to change the city to Almaty, remove the setter) I advise you to change the link to track the city that suits you.</li>
  </ul>
 <img src = "https://github.com/user-attachments/assets/ca0683b6-ab59-4595-847f-aea489aba9b8" >
 
