@@ -29,5 +29,5 @@ python telegram.py </li>
 <li>Be cautious with credentials;
     do not expose .env files publicly. </li>
  </ul>
-<img src = ![image](https://github.com/user-attachments/assets/ca0683b6-ab59-4595-847f-aea489aba9b8) >
+<img src = "https://github.com/user-attachments/assets/ca0683b6-ab59-4595-847f-aea489aba9b8" >
 
