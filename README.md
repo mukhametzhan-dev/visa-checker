@@ -30,6 +30,7 @@ python telegram.py </li>
     do not expose .env files publicly. </li>
 
     <li> The parsing code collects dates only for Almaty and Astana (to change the city to Almaty, remove the setter) I advise you to change the link to track the city that suits you.</li>
+    <li> Also there is only Russian interface , in future i am planning to add more languages support </li> 
  </ul>
 <img src = "https://github.com/user-attachments/assets/ca0683b6-ab59-4595-847f-aea489aba9b8" >
 
